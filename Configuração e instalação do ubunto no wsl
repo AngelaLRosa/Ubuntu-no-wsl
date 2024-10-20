@@ -1,1 +1,46 @@
+<!DOCTYPE html>
+<html lang="pt-br"/>
 
+<head>
+<meta charset="UTF-8"/>
+<section id="principal">
+<article id="ap">
+<h2><em>WSL</em></h2></h2>
+<figure 
+style="width:300px;
+height:160 px;">
+<img src="_imagem/wsl.png">
+<figcaption>
+<style>
+p{
+   text-align:justify;
+   text-indent:50px;
+
+}
+</style>
+<h2>O que é</h2>
+<p><b>WSL</b>(<i> Subsistema do Windows para Linux</i>)  é um recurso do sistema operacional Windows que permite executar um sistema de arquivos linux, juntamente com ferramentas de linha de comando do Linux e aplicativos gui, diretamente no Windows, juntamente com sua área de trabalho e aplicativos tradicionais do Windows.</p> 
+<p>Como instalar.</p>
+</figcaption>
+</figure>
+
+<H2><b>Passo a passo de instalação!</b></H2>
+
+Aqui mostraremos os passos para habilitar o wsl,fazer instalação do Ubuntu e nginx no wsl. 
+<h2>Primeiro começaremos com a liberação do wsl no windows.</h2>
+<img src="_imagem/primeiro passo.png">
+</p>Aqui deve-se seguir entrando no Painel de controle e vai na aba Programas e fazendo a liberação do Ativar ou desativar recursos no windows.
+Deve ser selecionado:Plataforma de Máquina virtual,plataforma do hipervisor do windowns e subsistema do windows para Linux.</p>
+<img src="_imagem/segundo passo.png">
+</p>Depois entra na loja da microsoft para baixar o Ubuntu na versão atualizada que estiver disponível,no meu caso foi a versão 20.4.</p>
+<img src="_imagem/terceiro passo.png">
+<img src="_imagem/quarto passo.png">
+</p>Após localizar o Ubuntu coloca ele para baixar e colocar para abrir.</p>
+<img src="_imagem/quinto passo.png">
+ <img src="_imagem/sexto passo.png">
+ </p>Logo após finalizar a instalação  irá abrir o Ubuntu vá na aba de pesquisa de aplicatvos no lado  esquerdo do computador geralmente aparece o simbolo do windows(A janela) e clique em cima do Ubuntu e ele vai ativar e se cria o usuário root.</p>
+<img src="_imagem/sétimo passo.png">
+<img src="_imagem/oitavo passo.png"> 
+</style>
+</body>
+</html>
